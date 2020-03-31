@@ -1,0 +1,111 @@
+*
+{max-width: 100%;
+	font-family: "arial"
+
+}
+
+
+header
+{
+ text-align: right;
+ color: black;
+ font-size:16px;
+ font-style: "arial";
+ padding: 10px;
+ word-spacing: 40px;
+ 
+}
+
+
+.connexion
+{
+font-style: bold;
+color: green;
+border-radius: 25px;
+}
+
+
+h1
+{
+	text-align: center;
+}
+
+.logo
+{
+	padding-top: : 109px;
+	text-align: center;
+	height: 70%
+	width: 70%;
+}
+
+
+.mic
+{
+	height: 40px;
+	width: 30px;
+}
+
+.loop
+{
+	height: 40px;
+	width: 40px;
+}
+
+.typing
+{
+	text-align: center;
+	border-radius: 30px;
+	color: black;
+	border-style: ridge;
+	border-width: 5px;
+	line-height: 10px;
+	border
+	justify-content: space-between;
+
+}
+
+.searchluck
+{
+	text-align: center;
+	width: : 20px;
+	font-size: 20px;
+	font-style: bold;
+	color: #5F6368;
+	font-family: "arial"
+	padding: 16px;
+	margin: 11px 4px;
+	border: 1px solid;
+	border-radius: 5px;
+	line-height: 20px;
+
+}
+
+
+.corona
+{
+	text-align: center;
+	font-style: bold;
+	font-size:18px;
+	font-family: "arial";
+
+
+}
+
+.hand
+{
+	text-align: center;
+	margin-top: 50px;
+}
+
+
+footer
+{
+	bottom: 0;
+	background: #f2f2f2;
+	position: absolute;
+	line-height: 40px;
+}
+.pub
+{
+	word-spacing: 40px;
+}
